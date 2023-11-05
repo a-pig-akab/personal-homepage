@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吴诗航
+title: 吴诗航-
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
