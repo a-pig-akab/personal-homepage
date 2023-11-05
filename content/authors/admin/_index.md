@@ -6,8 +6,8 @@ title: 吴诗航
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Wu
-last_name: Shi Hang
+first_name: Hang Wu
+last_name: Shi
 
 # Status emoji
 status:
