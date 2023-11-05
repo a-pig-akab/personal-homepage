@@ -3,7 +3,7 @@
 title: 吴诗航
 
 # Name pronunciation (optional)
-name_pronunciation: Shi Hang Wu
+name_pronunciation: ShiHang Wu
 
 # Full name (for SEO)
 first_name: Hang Wu
@@ -56,14 +56,19 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: PyTorch
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Opencv
         description: ''
-        percent: 40
+        percent: 60
+        icon: database
+        icon_pack: fas
+      - name: Latex
+        description: ''
+        percent: 50
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -81,6 +86,11 @@ skills:
         icon: cat
         icon_pack: fas
       - name: Photography
+        description: ''
+        percent: 80
+        icon: camera-retro
+        icon_pack: fas
+      - name: Badminton
         description: ''
         percent: 80
         icon: camera-retro
