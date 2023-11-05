@@ -3,7 +3,7 @@
 title: 吴诗航
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Shi Hang Wu
 
 # Full name (for SEO)
 first_name: Hang Wu
