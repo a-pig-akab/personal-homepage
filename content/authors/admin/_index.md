@@ -31,6 +31,7 @@ bio: My research interests include deep learning, computer vision, OCR and image
 interests:
   - Artificial Intelligence
   - Computer Vision
+  - OCR
   - Image Steganography
 
 # Education to show in About widget
@@ -110,12 +111,12 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=jqck03UAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/a-pig-akab
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
