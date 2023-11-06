@@ -38,13 +38,13 @@ education:
   courses:
     - course: MEng in Electronic Information
       institution: South China University of Technology(SCUT)
-      year: 2024~2027
+      year: 2027
     - course: BSc in Electronic Information Engineering
       institution: Shenzhen University(SZU)
-      year: 2020~2024
+      year: 2024
     - course: Senior High School diploma in Science
-      institution: Guangdong Maoming No. 1 Middle School
-      year: 2017～2020
+      institution: Guangdong Maoming No.1 Middle School
+      year: 2020
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
