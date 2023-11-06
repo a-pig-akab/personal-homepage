@@ -59,17 +59,17 @@ skills:
       - name: PyTorch
         description: ''
         percent: 90
-        icon: chart-line
+        icon: fire
         icon_pack: fas
       - name: Opencv
         description: ''
         percent: 60
-        icon: database
+        icon: image
         icon_pack: fas
       - name: Latex
         description: ''
         percent: 50
-        icon: database
+        icon: pen-to-square
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
