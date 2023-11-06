@@ -85,15 +85,15 @@ skills:
         percent: 100
         icon: dog
         icon_pack: fas
-      - name: Photography
+      - name: Music
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 60
+        icon: music
         icon_pack: fas
-      - name: Badminton
+      - name: Films
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 70
+        icon: film
         icon_pack: fas
 
 # Social/Academic Networking
