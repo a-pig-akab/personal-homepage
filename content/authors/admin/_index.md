@@ -36,15 +36,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Electronic Information
+      institution: South China University of Technology(SCUT)
+      year: 2024~2027
+    - course: BSc in Electronic Information Engineering
+      institution: Shenzhen University(SZU)
+      year: 2020~2024
+    - course: Senior High School diploma in Science
+      institution: Guangdong Maoming No. 1 Middle School
+      year: 2017～2020
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -75,10 +75,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Table Tennis
         description: ''
-        percent: 80
-        icon: badminton
+        percent: 70
+        icon: table-tennis-paddle-ball
         icon_pack: fas
       - name: Dogs
         description: ''
