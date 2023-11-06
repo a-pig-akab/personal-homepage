@@ -25,7 +25,7 @@ organizations:
     url: https://www.szu.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include deep learning, computer vision, OCR and image steganography.
 
 # Interests to show in About widget
 interests:
