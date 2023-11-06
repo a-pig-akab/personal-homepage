@@ -22,7 +22,7 @@ role: Student of Electronic Information Engineering
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Shenzhen University
-    url: https://www.stanford.edu/
+    url: https://www.szu.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -83,7 +83,7 @@ skills:
       - name: Cats
         description: ''
         percent: 100
-        icon: cat
+        icon: dog
         icon_pack: fas
       - name: Photography
         description: ''
