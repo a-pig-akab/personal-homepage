@@ -77,10 +77,10 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 80
+        icon: badminton
         icon_pack: fas
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
         icon: dog
