@@ -30,6 +30,7 @@ bio: My research interests include deep learning, computer vision, OCR and image
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
+  - Large Language Model
   - Computer Vision
   - OCR
   - Image Steganography
@@ -131,5 +132,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shi Hang Wu is a student of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
