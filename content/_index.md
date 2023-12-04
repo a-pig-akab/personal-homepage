@@ -33,9 +33,9 @@ sections:
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
-        text_color_light: true
+        # gradient_end: '#1976d2'
+        # gradient_start: '#004ba0'
+        # text_color_light: true
         image:
           filename: Motion-Blue.jpg
   - block: about.biography
