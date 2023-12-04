@@ -44,6 +44,10 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    design:
+      background:
+        image:
+          filename: Motion-Blue.jpg
   - block: skills
     content:
       title: Skills
