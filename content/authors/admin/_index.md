@@ -32,8 +32,8 @@ interests:
   - Artificial Intelligence
   - Large Language Model
   - Computer Vision
-    - OCR
-    - Image Steganography
+  -   OCR
+  -   Image Steganography
 
 # Education to show in About widget
 education:
