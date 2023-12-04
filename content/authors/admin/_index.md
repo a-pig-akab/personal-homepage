@@ -25,15 +25,15 @@ organizations:
     url: https://www.szu.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep learning, computer vision, OCR and image steganography.
+bio: My research interests include Artificial Intelligence, large language model, computer vision, OCR and image steganography.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
   - Large Language Model
   - Computer Vision
-  -   OCR
-  -   Image Steganography
+  - OCR
+  - Image Steganography
 
 # Education to show in About widget
 education:
