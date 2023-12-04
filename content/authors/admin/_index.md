@@ -132,5 +132,5 @@ social:
 highlight_name: true
 ---
 
-Shi Hang Wu is a student of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shihang Wu, a senior student in the AI specialty class of Electronics and Information Engineering at Shenzhen University, has been admitted to the School of Electronics and Information of South China University of Technology to pursue a master's degree. His research interests include artificial intelligence, computer vision and large language model. He once conducted deep learning image steganography research in Shenzhen Key Laboratory of Media Information Content Security. He is currently an algorithm intern in the AIM department of Shanghai Hehe Information Technology Co., LTD. Mainly responsible for the research of large language model instruction tuning data construction technology in the financial field.
 {style="text-align: justify;"}
