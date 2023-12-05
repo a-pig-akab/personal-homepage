@@ -31,7 +31,7 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 publication: '*IEEE Transactions on Circuits and Systems for Video Technology*'
-publication_short: 'TCSVT'
+publication_short: '*TCSVT*'
 
 doi: 10.1109/TCSVT.2023.3294291
 
@@ -43,16 +43,16 @@ summary: 'In this paper, we propose a payload-independent cost learning framewor
 tags: []
 
 # Display this page in a list of Featured pages?
-featured: ture
+featured: true
 
 # Links
 url_pdf: ''
-url_code: 'https://github.com/a-pig-akab/PICO-RL_project.git'
+url_code: 'https://github.com/a-pig-akab/PICO-RL_project'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/a-pig-akab/PICO-RL_project.git'
+url_source: 'https://github.com/a-pig-akab/PICO-RL_project'
 url_video: ''
 
 # Custom links (uncomment lines below)
