@@ -38,7 +38,7 @@ doi: 10.1109/TCSVT.2023.3294291
 abstract: Recent research has shown that architectures utilizing reinforcement learning (RL) are effective in cost-based image steganography. However, these architectures only learn embedding probabilities rather than costs, and are trained for a specific embedding payload, making it difficult to extend the trained model to serve other payloads. In this paper, we propose a payload-independent cost learning framework using RL called PICO-RL. This framework directly learns universal costs that can be applied to any payload. PICO-RL incorporates an optimal probability approximation (OPA) module that can calculate the required probability map for embedding simulation directly from a learned cost map for any payload, eliminating the need for time-consuming searches for a valid probability scaling parameter. Additionally, PICO-RL uses an advanced steganalysis environment network to provide more effective reward feedback for learning. During RL training, the learned cost maps of different payloads converge and eventually become similar under the OPA constraint, resulting in payload independence. Experimental results demonstrate that a well-trained PICO-RL model, which acts as a universal cost function, defines costs with superior security performance against steganalysis and has better coding compatibility when encoding with practical steganographic codes.
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'In this paper, we propose a payload-independent cost learning framework using RL called PICO-RL. This framework directly learns universal costs that can be applied to any payload.'
 
 tags: []
 
