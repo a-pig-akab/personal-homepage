@@ -17,7 +17,7 @@ authors:
 author_notes: 
   - ''
   - 'student first author'
-  - ‘’
+  - ''
 
 date: '2023-01-01'
 
@@ -43,7 +43,7 @@ summary: ''
 tags: []
 
 # Display this page in a list of Featured pages?
-featured: false
+featured: ture
 
 # Links
 url_pdf: ''
