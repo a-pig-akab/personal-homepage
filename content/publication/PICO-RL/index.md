@@ -14,7 +14,10 @@ authors:
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
-author_notes: ['first author'，'student first author']
+author_notes: 
+  - 'first author'
+  - 'student first author'
+  - ‘corresponding author’
 
 date: '2023-01-01'
 
@@ -44,12 +47,12 @@ featured: false
 
 # Links
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/a-pig-akab/PICO-RL_project.git'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://github.com/a-pig-akab/PICO-RL_project.git'
 url_video: ''
 
 # Custom links (uncomment lines below)
