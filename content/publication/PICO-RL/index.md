@@ -14,7 +14,7 @@ authors:
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
-author_notes: []
+author_notes: [first author，student first author]
 
 date: '2023-01-01'
 
