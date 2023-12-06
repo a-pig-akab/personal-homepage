@@ -12,7 +12,7 @@ baseURL: 'https://example.com/' # Website URL
 
 defaultContentLanguage: en
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
@@ -24,13 +24,13 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-bootstrap/v5
-  mounts: 
-    - source: content/en
-      target: content
-      lang: en-us
-    - source: content/zh
-      target: content
-      lang: zh
+  # mounts: 
+  #   - source: content/en
+  #     target: content
+  #     lang: en-us
+  #   - source: content/zh
+  #     target: content
+  #     lang: zh
     
 ############################
 ## ADVANCED
