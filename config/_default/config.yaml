@@ -15,6 +15,16 @@ hasCJKLanguage: false
 defaultContentLanguageInSubdir: true
 removePathAccents: true
 
+languages:
+  en:
+    languageName: English
+    weight: 1
+    contentDir: content/en
+  fr:
+    languageName: 简体中文
+    weight: 2
+    contentDir: content/zh
+
 ############################
 ## MODULES
 ############################
@@ -24,13 +34,13 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-bootstrap/v5
-  # mounts: 
-  #   - source: content/en
-  #     target: content
-  #     lang: en-us
-  #   - source: content/zh
-  #     target: content
-  #     lang: zh
+  mounts: 
+    - source: content/en
+      target: content
+      lang: en-us
+    - source: content/zh
+      target: content
+      lang: zh
     
 ############################
 ## ADVANCED
