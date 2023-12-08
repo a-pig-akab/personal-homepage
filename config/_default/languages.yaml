@@ -13,9 +13,9 @@ en:
 zh:
   languageCode: zh
   contentDir: content/zh
-  title: Chinese website title...
+  title: 吴诗航的主页
   params:
-    description: Site description in Chinese...
+    description: 吴诗航的主页-中文版本
   menu:
     main:
       - name: 主页
@@ -27,7 +27,7 @@ zh:
       - name: 项目
         url: '#projects'
         weight: 30
-      - name: Talks
+      - name: 会谈
         url: '#talks'
         weight: 40
       - name: 出版物

@@ -41,7 +41,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: 个人简介
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
     # design:
@@ -50,7 +50,7 @@ sections:
     #       filename: Motion-Blue.jpg
   - block: skills
     content:
-      title: Skills
+      title: 技能与爱好
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
@@ -58,7 +58,7 @@ sections:
       columns: '1'
   - block: experience
     content:
-      title: Experience
+      title: 个人经历
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -94,7 +94,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: '个人奖项'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -136,7 +136,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: 近期博客
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -163,7 +163,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: 项目
       filters:
         folders:
           - project
@@ -189,7 +189,7 @@ sections:
       flip_alt_rows: false
   - block: markdown
     content:
-      title: Gallery
+      title: 展示馆
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
@@ -198,7 +198,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: 特色出版物
       filters:
         folders:
           - publication
@@ -208,7 +208,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: 近期出版物
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -223,7 +223,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: 近期和即将举行的会谈
       filters:
         folders:
           - event
@@ -232,13 +232,13 @@ sections:
       view: compact
   - block: tag_cloud
     content:
-      title: Popular Topics
+      title: 受欢迎的话题
     design:
       columns: '2'
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: 联系方式
       subtitle:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
