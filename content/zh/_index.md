@@ -252,7 +252,7 @@ sections:
         region: 南山区
         postcode: '518000'
         country: 中国
-        country_code: China
+        country_code: CHN
       directions: 进入学校到南区学生宿舍
       office_hours:
         - '周一 10:00 -- 13:00'
