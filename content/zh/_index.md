@@ -241,7 +241,7 @@ sections:
       title: 联系方式
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        如果对我的网站内容感兴趣，或对网站的内容有疑问，欢迎邮件联系和在工作时间电话联系。
       # Contact (add or remove contact options as necessary)
       email: 1217678575@qq.com
       phone: +86 18813366009
