@@ -32,7 +32,7 @@ interests:
   - Artificial Intelligence
   - Large Language Model
   - Computer Vision
-  - OCR
+  - 文档识别
   - Image Steganography
 
 # Education to show in About widget
