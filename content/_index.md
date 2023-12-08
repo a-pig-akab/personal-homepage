@@ -144,7 +144,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - en/post
+          - post
         author: ""
         category: ""
         tag: ""
@@ -166,7 +166,7 @@ sections:
       title: Projects
       filters:
         folders:
-          - en/project
+          - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -201,7 +201,7 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - en/publication
+          - publication
         featured_only: true
     design:
       columns: '2'
@@ -215,7 +215,7 @@ sections:
         {{% /callout %}}
       filters:
         folders:
-          - en/publication
+          - publication
         exclude_featured: true
     design:
       columns: '2'
@@ -226,7 +226,7 @@ sections:
       title: Recent & Upcoming Talks
       filters:
         folders:
-          - en/event
+          - event
     design:
       columns: '2'
       view: compact
