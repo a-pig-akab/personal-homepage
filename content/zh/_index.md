@@ -247,20 +247,20 @@ sections:
       phone: +86 18813366009
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        street: 南海大道3688号
+        city: 深圳市
+        region: 南山区
+        postcode: '518000'
+        country: 中国
+        country_code: China
+      directions: 进入学校到南区学生宿舍
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - '周一 10:00 -- 13:00'
+        - '周三 09:00 -- 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '22.5338'
+        longitude: '113.9362'  
       contact_links:
         # - icon: twitter
         #   icon_pack: fab
