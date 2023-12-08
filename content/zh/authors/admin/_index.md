@@ -77,22 +77,22 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Table Tennis
+      - name: 乒乓球
         description: ''
         percent: 70
         icon: table-tennis-paddle-ball
         icon_pack: fas
-      - name: Dogs
+      - name: 撸狗
         description: ''
         percent: 100
         icon: dog
         icon_pack: fas
-      - name: Music
+      - name: 听音乐
         description: ''
         percent: 60
         icon: music
         icon_pack: fas
-      - name: Films
+      - name: 看电影
         description: ''
         percent: 70
         icon: film
@@ -132,5 +132,5 @@ social:
 highlight_name: true
 ---
 
-Shihang Wu, a senior student in the AI specialty class of Electronics and Information Engineering at Shenzhen University, has been admitted to the School of Electronics and Information of South China University of Technology to pursue a master's degree. His research interests include artificial intelligence, computer vision and large language model. He is currently an algorithm intern in the AIM department of Shanghai Hehe Information Technology Co., LTD. Mainly responsible for the research of large language model instruction tuning data construction technology in the financial field.
+吴诗航是深圳大学电子与信息工程专业卓越AI人才培养特色班的大四学生，已经通过推免保送至华南理工大学电子与信息学院攻读硕士学位。他感兴趣的研究方向包括人工智能、计算机视觉和语言大模型相关方向，目前是上海合合信息科技股份有限公司AIM部门的算法实习生，主要负责进行金融领域大模型指令数据构建技术的研究。
 {style="text-align: justify;"}
