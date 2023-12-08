@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student of Electronic Information Engineering
+role: 电子与信息工程学院本科生
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Shenzhen University
+  - name: 深圳大学
     url: https://www.szu.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,29 +29,29 @@ bio: My research interests include Artificial Intelligence, large language model
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Large Language Model
-  - Computer Vision
+  - 人工智能
+  - 大语言模型
+  - 计算机视觉
   - 文档识别
-  - Image Steganography
+  - 图像隐写
 
 # Education to show in About widget
 education:
   courses:
-    - course: MEng in Electronic Information
-      institution: South China University of Technology(SCUT)
+    - course: 电子信息-硕士
+      institution: 华南理工大学(SCUT)
       year: 2027
-    - course: BSc in Electronic Information Engineering
-      institution: Shenzhen University(SZU)
+    - course: 电子信息工程-学士
+      institution: 深圳大学(SZU)
       year: 2024
-    - course: Senior High School diploma in Science
-      institution: Guangdong Maoming No.1 Middle School
+    - course: 高中理科文凭
+      institution: 广东省茂名市第一中学
       year: 2020
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: 技术
     items:
       - name: Python
         description: ''
@@ -73,7 +73,7 @@ skills:
         percent: 50
         icon: pen-to-square
         icon_pack: fas
-  - name: Hobbies
+  - name: 爱好
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
