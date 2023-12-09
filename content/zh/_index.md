@@ -88,7 +88,7 @@ sections:
           location: 深圳
           date_start: '2021-10-01'
           date_end: '2023-09-31'
-          description: 参与深度学习图像隐写领域算法研究，主要研究方向为利用生成对抗网络进行图像隐写的框架改进。
+          description: 参与深度学习图像隐写领域相关算法研究，主要研究方向为利用生成对抗网络进行图像隐写的框架改进。
     design:
       columns: '2'
   - block: accomplishments
