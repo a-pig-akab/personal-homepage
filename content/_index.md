@@ -68,27 +68,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Algorithm Intern
+          company: Intsig Information Co., Ltd.
+          company_url: 'https://www.intsig.com'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Shanghai
+          date_start: '2023-11-20'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+              * Construction of LLM instruction data in the financial domain
+              * Research on General Instruction Data construction methods
+              * Financial Data crawling and testing the LLM fine-tuning performance
+        - title: Undergraduates in the image steganography group
+          company: Shenzhen University(Shenzhen key Laboratory of Media Security)
+          company_url: 'http://media-sec.szu.edu.cn'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Shenzhen
+          date_start: '2021-10-01'
+          date_end: '2023-11-01'
+          description: Mainly responsible for the research of deep learning image steganography algorithm based on the generative adversarial network framework.
     design:
       columns: '2'
   - block: accomplishments

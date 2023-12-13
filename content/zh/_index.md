@@ -70,7 +70,7 @@ sections:
       items:
         - title: 算法实习生
           company: 合合信息科技
-          company_url: ''
+          company_url: 'https://www.intsig.com'
           company_logo: org-gc
           location: 上海
           date_start: '2023-11-20'
@@ -80,10 +80,10 @@ sections:
 
               * 金融领域LLM指令数据构建
               * 通用指令数据构建方法研究
-              * 金融领域数据爬取与LLM微调性能测试
-        - title: 深度学习图像隐写组本科生
+              * 金融领域数据爬取和LLM微调性能测试
+        - title: 图像隐写组本科生
           company: 深圳大学(深圳市媒体信息内容安全重点实验室)
-          company_url: ''
+          company_url: 'http://media-sec.szu.edu.cn'
           company_logo: org-x
           location: 深圳
           date_start: '2021-10-01'
