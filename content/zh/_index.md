@@ -73,14 +73,14 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: 上海
-          date_start: '2021-01-01'
+          date_start: '2023-11-20'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              主要负责工作包括:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * 金融领域LLM指令数据构建
+              * 通用指令数据构建方法研究
+              * 金融领域数据爬取与LLM微调性能测试
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
