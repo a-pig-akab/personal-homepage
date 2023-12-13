@@ -81,14 +81,14 @@ sections:
               * 金融领域LLM指令数据构建
               * 通用指令数据构建方法研究
               * 金融领域数据爬取与LLM微调性能测试
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: 深度学习图像隐写组本科生
+          company: 深圳大学(深圳市媒体信息内容安全重点实验室)
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: 深圳
+          date_start: '2021-10-01'
+          date_end: '2023-11-01'
+          description: 主要负责基于生成对抗网络框架的深度学习图像隐写算法研究。
     design:
       columns: '2'
   - block: accomplishments
