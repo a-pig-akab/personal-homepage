@@ -71,7 +71,7 @@ sections:
         - title: 算法实习生
           company: 合合信息科技
           company_url: 'https://www.intsig.com'
-          company_logo: org-gc
+          company_logo: intsig
           location: 上海
           date_start: '2023-11-20'
           date_end: ''
