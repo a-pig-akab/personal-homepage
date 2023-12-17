@@ -71,7 +71,7 @@ sections:
         - title: Algorithm Intern
           company: Intsig Information Co., Ltd.
           company_url: 'https://www.intsig.com'
-          company_logo: org-gc
+          company_logo: intsig
           location: Shanghai
           date_start: '2023-11-20'
           date_end: ''
