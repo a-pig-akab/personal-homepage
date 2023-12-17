@@ -84,7 +84,7 @@ sections:
         - title: Undergraduates in the image steganography group
           company: Shenzhen University(Shenzhen key Laboratory of Media Security)
           company_url: 'http://media-sec.szu.edu.cn'
-          company_logo: org-x
+          company_logo: szu
           location: Shenzhen
           date_start: '2021-10-01'
           date_end: '2023-11-01'

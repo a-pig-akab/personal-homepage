@@ -84,7 +84,7 @@ sections:
         - title: 图像隐写组本科生
           company: 深圳大学(深圳市媒体信息内容安全重点实验室)
           company_url: 'http://media-sec.szu.edu.cn'
-          company_logo: org-x
+          company_logo: szu
           location: 深圳
           date_start: '2021-10-01'
           date_end: '2023-11-01'
